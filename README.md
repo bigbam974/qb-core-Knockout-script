@@ -13,7 +13,7 @@ Stand alone script that let you knockout player when you enter melee combat, pla
 
 ___YRNBAM
 
-join my discords
+join my discords for support
 
 --Cars&Things
 https://discord.gg/h3deXeGcBC
